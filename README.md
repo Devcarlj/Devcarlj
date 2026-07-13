@@ -1,5 +1,8 @@
 # 💫 About Me:
-💡 Software Engineer that loves implementing AI-powered solutions<br>🎓 Studied Information Technology at the University of City of Valenzuela, Philippines<br>🛠️ Skilled in building full‑stack applications and integrating intelligent systems<br>🌐 Freelance developer collaborating with clients and academic projects<br>🔍 Curious problem-solver!
+💡 Creating bugs for 2 years as a Software Engineer<br>
+🎓 Studied Information Technology at the University of City of Valenzuela, Philippines<br>
+🛠️ Skilled in building full‑stack applications<br>
+🌐 Freelance developer<br>🔍 Curious problem-solver!
 
 
 ## 🌐 Socials:
