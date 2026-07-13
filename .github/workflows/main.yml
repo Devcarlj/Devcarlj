@@ -1,0 +1,31 @@
+name: Generate arcade contribution graphs
+
+on:
+  schedule:        # run automatically every 24 hours
+    - cron: "0 */24 * * *"
+  workflow_dispatch:   # allows manual run
+  push:             # run on every push to main
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Generate contribution graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'   # you can add more, e.g. 'pacman,bomberman'
+
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
