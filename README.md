@@ -30,14 +30,10 @@
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 # 📊 GitHub Stats:
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://streak-stats.demolab.com/?user=Devcarlj&theme=dark&hide_border=false"
-       style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Devcarlj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-       width="350" height="198" />
-</div>
+| Streak | Top Languages |
+|--------|---------------|
+| <img src="https://streak-stats.demolab.com/?user=Devcarlj&theme=dark&hide_border=false" /> | <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Devcarlj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" height="198" /> |
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Devcarlj&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
 
