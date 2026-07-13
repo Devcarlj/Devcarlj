@@ -32,7 +32,7 @@
 
 <div style="display: flex; justify-content: center;">
   <img src="https://streak-stats.demolab.com/?user=Devcarlj&theme=dark&hide_border=false"
-       style="margin-right: 40px;" />
+       style="margin-right: 10px;" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Devcarlj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
        width="350" height="198" />
 </div>
