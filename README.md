@@ -1,17 +1,17 @@
-# 💫 About Me:
-💡 Creating bugs for 2 years as a Software Engineer<br>
-🎓 Studied Information Technology at the University of City of Valenzuela, Philippines<br>
-🛠️ Skilled in building full‑stack applications<br>
-🌐 Freelance developer<br>🔍 Curious problem-solver!
+#  About Me:
+ Creating bugs for 2 years as a Software Engineer<br>
+ Studied Information Technology at the University of City of Valenzuela, Philippines<br>
+Skilled in building full‑stack applications<br>
+Freelance developer<br> 
 
 
-## 🌐 Socials:
+## Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asulizc@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carl-joshua-asuliz/) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/carljoshua.asuliz) 
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,7 +31,7 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) 	
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) 
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
-# 📊 GitHub Stats:
+#  GitHub Stats:
 
 | Streak | Top Languages |
 |--------|---------------|
