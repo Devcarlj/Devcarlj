@@ -5,7 +5,7 @@
 
 Check out my [portfolio](https://carlasuliz.dev/).
 
-![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,aws,postman,express,mongodb,postgres,docker,figma)<br/>
+![SkillIcons](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,express,nodejs,mongodb,postgres,docker,aws,postman,figma)<br/>
 
 
 Reach out to me at: <a href="hello@carlasuliz.dev">hello@carlasuliz.dev</a>
