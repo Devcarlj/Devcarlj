@@ -8,7 +8,7 @@ Check out my [portfolio](https://carlasuliz.dev/).
 ![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,aws,postman,express,mongodb,postgres,docker,figma)<br/>
 
 
-Reach out to me at: <a href="asulizc@gmail.com">asulizc@gmail.com</a>
+Reach out to me at: <a href="hello@carlasuliz.dev">hello@carlasuliz.dev</a>
 
 <details>
   <summary>Github Stats ⚡</summary>
