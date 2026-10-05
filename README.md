@@ -3,8 +3,7 @@
 
 **I'm Carl** - I'm a fullstack developer, maker, and IT student. I work on some random projects in my free time.
 
-Check out my <img width="15" height="15" alt="favicon1" src="https://github.com/user-attachments/assets/b716bb81-accc-419d-b53c-525d8cf7a776" />
-[portfolio](https://carlasuliz.dev/).
+Check out my [portfolio](https://carlasuliz.dev/). <img width="15" height="15" alt="favicon1" src="https://github.com/user-attachments/assets/b716bb81-accc-419d-b53c-525d8cf7a776" />
 
 ![SkillIcons](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,express,nodejs,mongodb,postgres,docker,aws,postman,figma)<br/>
 
